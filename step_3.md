@@ -4,11 +4,7 @@ Let's create a grid of pixels that you can use for creating pixel art.
 
 The grid will look like a table. Tables contain rows, and rows contain cells which will represent the pixels.
 
-+ Open the [starter trinket](http://jumpto.cc/web-pixel).
-
-The project should look like this:
-
-![screenshot](images/pixel-starter.png)
++ Open the `index.html` file in Visual Studio Code.
 
 First, let's write some code to create a table with a black background and then put white pixels into it.
 
