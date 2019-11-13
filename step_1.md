@@ -16,3 +16,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 + [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
 
+---
+Go to step_2.md for next instructions
+---
