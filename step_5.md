@@ -9,6 +9,7 @@ Let's add some JavaScript code to colour in a pixel automatically when you click
 
 We will create a **function**. Functions are named blocks of code which perform a particular task. We can **call** a function by its name when we want to run the code it contains.
 
++ Open `script.js` by right-clicking on the file in File Explorer and selecting **Open with..**. Find Visual Studio Code in the options.
 + Inside the `script.js` file, create a function with the name `setPixelColour`. The `setPixelColour` function needs to take a `pixel` as an **input** so that it can change that pixel's colour.
 
 ![Create function](images/create-function.png)
@@ -16,8 +17,6 @@ We will create a **function**. Functions are named blocks of code which perform 
 + Add this code inside the function to set the background colour of the pixel:
 
 ![screenshot](images/pixel-art-set-pixel-colour.png)
-
-Notice that `backgroundColor` uses the American spelling of 'colour'.
 
 At the moment this code doesn't have any effect.
 
