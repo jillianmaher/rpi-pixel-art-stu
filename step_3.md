@@ -42,10 +42,10 @@ Find the `<div>` tag with the class `row` and copy it, including the three rows 
 
 Paste this code immediately below the section you just copied to create another row. Repeat once more so that you have three rows of three pixels each.
 
-You can check whether your table looks right by looking at the result area on the right.
+You can check whether your table looks right by double-clicking `index.html` in File Explorer to launch it in a Web Browser.
 --- /hint ---
 --- hint ---
-Here is how your code should look:
+Here is how your code and webpage should look:
 
 ![screenshot](images/pixel-art-grid-3.png)
 --- /hint ---
