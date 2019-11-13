@@ -16,8 +16,6 @@ We need to add code so that when one of the colours in the palette is clicked on
 
 + Switch to `script.js` and create a variable called `penColour` at the very top of the file. Set the value of the variable to `'black'`.
 
-[[[generic-javascript-create-variable]]]
-
 --- hints ---
 --- hint ---
 Add the following code at the top of the file:
@@ -27,8 +25,6 @@ Add the following code at the top of the file:
 --- /hints ---
 
 + Below the variable, create a new function called `setPenColour` with an input of `pen`. Look at the function `setPixelColour` that you already created to help you.
-
-[[[generic-javascript-create-a-function]]]
 
 + Inside the `setPenColour` function, add code to set the `penColour` variable to the `pen` colour provided as the input.
 
